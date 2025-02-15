@@ -1,0 +1,20 @@
+name: Parkour-PM5
+main: rydevs29\parkour\Main
+version: 1.1.0
+api: 5.0.0
+author: RifqyDev
+description: Parkour plugin with temporary spawnpoint and multiworld support
+commands:
+  parkour:
+    description: Parkour commands
+    usage: /parkour
+    permission: parkour.command
+  hub:
+    description: Teleport to the hub
+    usage: /hub
+    permission: parkour.hub
+permissions:
+  parkour.command:
+    default: true
+  parkour.hub:
+    default: true

@@ -1,0 +1,5 @@
+lobby:
+  world: "hub"  # Ganti dengan nama world lobby
+  x: 0
+  y: 100
+  z: 0
